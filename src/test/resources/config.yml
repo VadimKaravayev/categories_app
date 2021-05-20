@@ -1,0 +1,6 @@
+categories:
+  - animals
+  - numbers
+strategies:
+  animals: com.category.app.strategies.print.impl.AnimalsPrintStrategy
+  numbers: com.category.app.strategies.print.impl.NumbersPrintStrategy
